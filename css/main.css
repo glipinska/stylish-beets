@@ -28,6 +28,8 @@ nav a {
   text-decoration: none;
 }
 
-nav a:hover {
+a:hover {
   color: #3f1622;
   border-bottom: 3px solid #3f1622;
+  text-decoration: none;
+}
