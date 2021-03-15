@@ -10,3 +10,9 @@ html {
 /* font-family: 'PT Sans', sans-serif;
 font-family: 'PT Serif', serif;
 */
+
+h1 {
+  font-family: 'PT Sans', sans-serif;
+  colour: #3f1622
+  font-size: 1.5rem;
+}
