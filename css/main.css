@@ -1,6 +1,6 @@
 html {
   box-sizing: border-box;
-  background-color: #c9b5ab
+  background-color: #c9b5ab;
 }
 
 *, *::before, *::after {
@@ -13,6 +13,17 @@ font-family: 'PT Serif', serif;
 
 h1 {
   font-family: 'PT Sans', sans-serif;
-  colour: #3f1622
+  color: #3f1622;
   font-size: 1.5rem;
+}
+
+nav ol li {
+  list-style-type: none;
+  font-family: 'PT Sans', sans-serif;
+  font-size: 1.125rem;
+}
+
+nav a {
+  color: #8f2440;
+  text-decoration: none;
 }
